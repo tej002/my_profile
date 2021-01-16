@@ -17,13 +17,13 @@
 [![devDependencies Status](https://david-dm.org/StartBootstrap/startbootstrap-resume/dev-status.svg)](https://david-dm.org/StartBootstrap/startbootstrap-resume?type=dev)
 
 ## Download and Installation
-
+<!-- 
 To begin using this template, choose one of the following options to get started:
 
 - [Download the latest release on Start Bootstrap](https://startbootstrap.com/theme/resume/)
-- Install using npm: `npm i startbootstrap-resume`
-- Clone the repo: `git clone https://github.com/StartBootstrap/startbootstrap-resume.git`
-- [Fork, Clone, or Download on GitHub](https://github.com/StartBootstrap/startbootstrap-resume)
+- Install using npm: `npm i my_profile`
+- Clone the repo: `git clone https://gitlab`
+- [Fork, Clone, or Download on GitHub](https://github.com/StartBootstrap/startbootstrap-resume) -->
 
 ## Usage
 
